@@ -1,11 +1,11 @@
 # Karlita
 Creación de una landing page en Pyhton
 
-Misión
+Misión:
 
 Ser capaces de desarrollar una aplicación web completa usando un framework MVC (Modelo, Vista, Controlador)
 
-Planteamiento
+Planteamiento:
 
 Crear una prueba de vida de haber seguido el curso gratuito de Udemy sobre Django pero escribiendo el código en Python3 y subiendo a GitHub el estado de la aplicación tras cada capítulo.
 
